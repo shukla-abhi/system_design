@@ -1,0 +1,1 @@
+At the very core it means data partitioning in a database.
